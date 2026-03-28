@@ -1,4 +1,4 @@
-# Kripal Parsekar — Portfolio
+# Kripal Parsekar
 
 Personal portfolio website for Kripal Parsekar, a DevOps and Infrastructure Engineer based in London, UK.
 
